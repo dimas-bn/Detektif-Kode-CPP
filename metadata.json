@@ -1,0 +1,6 @@
+{
+  "name": "Detektif Kode C++",
+  "description": "Aplikasi pembelajaran interaktif C++ berbasis investigasi detektif: Prediksi, Jalankan, Selidiki, Modifikasi, Buat untuk siswa SMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
